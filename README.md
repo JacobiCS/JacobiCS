@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JacobiCS
-- 👀 I’m interested in making things
+- 👀 I’m interested in music and audio programming
 - 🌱 I’m currently learning Python, React.js, Tailwind, Svelte
 - 💞️ I’m looking to collaborate on anything audio related
 - 📫 How to reach me: NicholasJacobi.com
